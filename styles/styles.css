@@ -3,16 +3,27 @@ body {
 }
 .main-header-block{
     display: flex;
+    flex-direction:column;
     background-color: #965c5b;
-    justify-content: center;
     margin: 8px auto;
 }
 .index-images{
+    flex-grow: 1;
     background-color: antiquewhite;
     justify-content: center;
     display: flex;
     gap: 8px;
     flex: 40 0 0;
+}
 
+img{
+    border-radius: 8px;
+    width:200px;
+}
+.title-header{
+    flex-grow:1;
+}
 
+.footer{
+    flex: initial;
 }
