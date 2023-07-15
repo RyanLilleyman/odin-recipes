@@ -3,7 +3,7 @@
 
 Odin Recipes is a delightful collection of user-friendly, delicious recipes curated for the modern home cook. Built purely with HTML and CSS, our aim is to provide a clean, easy-to-navigate resource for both experienced chefs and kitchen novices alike.
 
-![Odin Recipes Banner](Link-to-banner-image-here)
+![Odin Recipes Banner](https://github.com/RyanLilleyman/odin-recipes/blob/main/images/banner.png)
 
 ## Featured Recipes
 
